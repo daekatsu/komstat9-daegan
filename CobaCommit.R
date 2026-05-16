@@ -14,3 +14,8 @@ plot(mtcars$wt, mtcars$mpg,
      xlab = 'berat mobil',
      ylab = 'miles/galoon',
      col = 'pink', pch = 19)
+boxplot(mtcars$wt, mtcars$mpg,
+     main = "Hubungan berat mobil dan MPG",
+     xlab = 'berat mobil',
+     ylab = 'miles/galoon',
+     col = 'pink', pch = 19)
