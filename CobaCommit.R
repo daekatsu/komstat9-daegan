@@ -14,3 +14,5 @@ plot(mtcars$wt, mtcars$mpg,
      xlab = 'berat mobil',
      ylab = 'miles/galoon',
      col = 'pink', pch = 19)
+
+print('i love statistika')
